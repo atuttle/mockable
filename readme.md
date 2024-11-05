@@ -1,5 +1,6 @@
 # Mockable
 
+[![npm version](https://badge.fury.io/js/@atcodes%2Fmockable.svg)](https://badge.fury.io/js/@atcodes%2Fmockable)
 [![Tests](https://github.com/atuttle/mockable/actions/workflows/pr-tests.yml/badge.svg?branch=main)](https://github.com/atuttle/mockable/actions/workflows/pr-tests.yml)
 
 Based on: https://nalanj.dev/posts/mocking-without-loaders/
